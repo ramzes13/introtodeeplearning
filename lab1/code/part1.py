@@ -1,3 +1,5 @@
+from .generic_conf import *
+
 import tensorflow as tf
 
 import mitdeeplearning as mdl

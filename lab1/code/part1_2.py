@@ -1,11 +1,9 @@
-import os
+from .generic_conf import *
 import tensorflow as tf
 import mitdeeplearning as mdl
 import numpy as np
 import matplotlib.pyplot as plt
 
-# disable tf cpu wawnings
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 a = tf.constant(15)
 b = tf.constant(61)
