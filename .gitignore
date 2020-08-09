@@ -136,3 +136,5 @@ dmypy.json
 !.devcontainer
 # Pyre type checker
 .pyre/
+
+/training*
