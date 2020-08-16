@@ -8,7 +8,7 @@
       "name": "Python: Module",
       "type": "python",
       "request": "launch",
-      "module": "lab1.code.part1_3"
+      "module": "experiments.save-models.save-json-hdf5"
     }
   ]
 }
